@@ -6,6 +6,7 @@ Just create a CSV file with at least one column & make a name of it (for exapmle
 You can also use it for [StackOverflow Data Explorer](https://data.stackexchange.com/) to analyze if user with the same username exists on GitHub
 
 You can make your own DB query or use an existed one from the [list](https://data.stackexchange.com/stackoverflow/queries?q=resume)
+And they have their own simple [sql tutorial](https://data.stackexchange.com/tutorial)
 
 #### Preparings:
 
