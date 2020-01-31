@@ -1,4 +1,5 @@
-### CSV reader: it checks if user exists on GitHub and configure new CSV with users basic info & languages statistics
+### CSV reader
+#### It checks if user exists on GitHub and configure new CSV with users basic info & languages statistics
 
 Just create a CSV file with at least one column & make a name of it (for exapmle: `names`).
 
