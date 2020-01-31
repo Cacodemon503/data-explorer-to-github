@@ -17,8 +17,8 @@ names = columns[str(input("Column name: "))]
 git_names = []
 
 #-----------------GITHUB CHECKER & LIST APPENDER-----------------#
+print("Checking if user exists on GitHub ...")
 for i in tqdm(names):
-    print("Checking if user exists on GitHub ...")
     token = open("token.txt" , "r").read()             # you can delete this line
     headers = {"Authorization": "token " + token}      # and add: headers = {"Authorization": "Token " +  "yourabcdefgh0123token"}
     URL = "https://api.github.com/users/" + i
