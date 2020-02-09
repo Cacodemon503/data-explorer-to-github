@@ -8,6 +8,8 @@ You can also use it for [StackOverflow Data Explorer](https://data.stackexchange
 You can make your own DB query or use an existed one from the [list](https://data.stackexchange.com/stackoverflow/queries?q=resume)
 And they have their own simple [sql tutorial](https://data.stackexchange.com/tutorial)
 
+This script requiers [Python3](https://www.python.org/), [Requests module](https://2.python-requests.org/en/master/), [tqdm module](https://github.com/tqdm/tqdm)
+
 #### Preparings:
 
 [Create your token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)
